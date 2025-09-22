@@ -6,7 +6,7 @@ class Fotografia(models.Model):
         ("NEBULOSA", "Nebulosa"),
         ("ESTRELA", "Estrela"),
         ("GALÁXIA", "Galáxia"),
-        ("PLANETA", "Planeta"),
+        ("PLANETA", "Planeta")
     ]
     
 
